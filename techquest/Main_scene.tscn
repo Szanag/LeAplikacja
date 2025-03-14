@@ -6,4 +6,3 @@
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("1_4gou1")]
 position = Vector2(496, 254)
-movement_speed = 100
