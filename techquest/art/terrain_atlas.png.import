@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://chnhj5te37cua"
-path="res://.godot/imported/cow_shadow.png-52fdcb2b3ee1e8b28a6876a8c836b98d.ctex"
+uid="uid://blcm383se6xum"
+path="res://.godot/imported/terrain_atlas.png-f149671fb6efcf23a3c21c633b577c38.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cow_shadow.png"
-dest_files=["res://.godot/imported/cow_shadow.png-52fdcb2b3ee1e8b28a6876a8c836b98d.ctex"]
+source_file="res://art/terrain_atlas.png"
+dest_files=["res://.godot/imported/terrain_atlas.png-f149671fb6efcf23a3c21c633b577c38.ctex"]
 
 [params]
 

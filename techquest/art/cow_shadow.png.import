@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cetet5vqq6bqm"
-path="res://.godot/imported/trees-and-bushes.png-076c9c078537256f52a42918e00b045b.ctex"
+uid="uid://grswcxh8gy60"
+path="res://.godot/imported/cow_shadow.png-12bc38b6842daa78ead6e16ecaf02ebb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://trees-and-bushes.png"
-dest_files=["res://.godot/imported/trees-and-bushes.png-076c9c078537256f52a42918e00b045b.ctex"]
+source_file="res://art/cow_shadow.png"
+dest_files=["res://.godot/imported/cow_shadow.png-12bc38b6842daa78ead6e16ecaf02ebb.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bp8flw64o37ix"
-path="res://.godot/imported/PathAndObjects.png-5cdf5c4aa735ca99dd9acab474ec2a69.ctex"
+uid="uid://doixtxikgol5"
+path="res://.godot/imported/cow_eat.png-c42f86648123dc07863a97a1f4dbae78.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://PathAndObjects.png"
-dest_files=["res://.godot/imported/PathAndObjects.png-5cdf5c4aa735ca99dd9acab474ec2a69.ctex"]
+source_file="res://art/cow_eat.png"
+dest_files=["res://.godot/imported/cow_eat.png-c42f86648123dc07863a97a1f4dbae78.ctex"]
 
 [params]
 

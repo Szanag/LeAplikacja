@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwcseci871mfh"
-path="res://.godot/imported/plant repack.png-57300b601a0dffbc25c175e87c38d53d.ctex"
+uid="uid://xt8w7qco3jyi"
+path="res://.godot/imported/tiles-map.png-c2b20dd59c03268eece6ba180589c6b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://plant repack.png"
-dest_files=["res://.godot/imported/plant repack.png-57300b601a0dffbc25c175e87c38d53d.ctex"]
+source_file="res://art/tiles-map.png"
+dest_files=["res://.godot/imported/tiles-map.png-c2b20dd59c03268eece6ba180589c6b2.ctex"]
 
 [params]
 

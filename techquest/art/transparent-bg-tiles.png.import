@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bkxyw8thib4jy"
-path="res://.godot/imported/cow_walk.png-25e8c7ef4af8005c72aef69d72953cf2.ctex"
+uid="uid://byoa604j34nr8"
+path="res://.godot/imported/transparent-bg-tiles.png-3f8db7f2b76a8f13cd454429ee964c56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cow_walk.png"
-dest_files=["res://.godot/imported/cow_walk.png-25e8c7ef4af8005c72aef69d72953cf2.ctex"]
+source_file="res://art/transparent-bg-tiles.png"
+dest_files=["res://.godot/imported/transparent-bg-tiles.png-3f8db7f2b76a8f13cd454429ee964c56.ctex"]
 
 [params]
 
