@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bu17ikisr3m8v"
-path="res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"
+uid="uid://cn6mdbob0wy4h"
+path="res://.godot/imported/fence_medieval.png-da868f460864eedd799d2ec034ac6c3f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/syn2.png"
-dest_files=["res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"]
+source_file="res://art/fence_medieval.png"
+dest_files=["res://.godot/imported/fence_medieval.png-da868f460864eedd799d2ec034ac6c3f.ctex"]
 
 [params]
 
