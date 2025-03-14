@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://e6ppgcdc7nkv"
-path="res://.godot/imported/Castle2.png-5ec4237e57bf67c1889cf29bca089ea2.ctex"
+uid="uid://u0t52ya76ya4"
+path="res://.godot/imported/dawn_of_the_gods.png-e5fdb848882f60277d44dc7ead8f77ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Castle2.png"
-dest_files=["res://.godot/imported/Castle2.png-5ec4237e57bf67c1889cf29bca089ea2.ctex"]
+source_file="res://art/dawn_of_the_gods.png"
+dest_files=["res://.godot/imported/dawn_of_the_gods.png-e5fdb848882f60277d44dc7ead8f77ad.ctex"]
 
 [params]
 

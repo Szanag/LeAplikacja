@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b15vi5l65658y"
-path="res://.godot/imported/dawn_of_the_gods.png-e2bf4583ca4db7feab9037d2fc6fb9de.ctex"
+uid="uid://es3g5docgplb"
+path="res://.godot/imported/base_out_atlas.png-ec91df46f4f9382fe69d20aa60a19ed3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://dawn_of_the_gods.png"
-dest_files=["res://.godot/imported/dawn_of_the_gods.png-e2bf4583ca4db7feab9037d2fc6fb9de.ctex"]
+source_file="res://art/base_out_atlas.png"
+dest_files=["res://.godot/imported/base_out_atlas.png-ec91df46f4f9382fe69d20aa60a19ed3.ctex"]
 
 [params]
 

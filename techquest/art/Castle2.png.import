@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://6ywvkqqbg6oy"
-path="res://.godot/imported/transparent-bg-tiles.png-6aaf81694fe836203f30a391afcfd24f.ctex"
+uid="uid://c41yoxgdsfjfh"
+path="res://.godot/imported/Castle2.png-d47162313b737180735bc4a2f78144eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://transparent-bg-tiles.png"
-dest_files=["res://.godot/imported/transparent-bg-tiles.png-6aaf81694fe836203f30a391afcfd24f.ctex"]
+source_file="res://art/Castle2.png"
+dest_files=["res://.godot/imported/Castle2.png-d47162313b737180735bc4a2f78144eb.ctex"]
 
 [params]
 

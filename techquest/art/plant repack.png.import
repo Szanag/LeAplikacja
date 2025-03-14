@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://btfhncmxlqcpl"
-path="res://.godot/imported/cow_eat.png-b46dd9b5b0725dc866ad821057f2c8de.ctex"
+uid="uid://dktg1tv0hpnv4"
+path="res://.godot/imported/plant repack.png-3f1b8a46affd62af4927a3903f0db655.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://cow_eat.png"
-dest_files=["res://.godot/imported/cow_eat.png-b46dd9b5b0725dc866ad821057f2c8de.ctex"]
+source_file="res://art/plant repack.png"
+dest_files=["res://.godot/imported/plant repack.png-3f1b8a46affd62af4927a3903f0db655.ctex"]
 
 [params]
 
