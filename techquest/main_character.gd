@@ -7,7 +7,7 @@ func _physics_process(_delta):
 		Input.get_action_strength("right") - Input.get_action_strength("left"),
 		Input.get_action_strength("down") - Input.get_action_strength("up")
 	)
-	while  Input.get_action_strength("sprint") == 1:
+	if  Input.is_action_pressed("sprint"):
 		movement_speed = 200
 	velocity = input_direction * movement_speed
 	move_and_slide()
