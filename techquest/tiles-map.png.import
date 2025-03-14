@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://sbh5hqyan4bd"
+path="res://.godot/imported/tiles-map.png-ec32ca9f45e54e53df31e5e751170741.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://tiles-map.png"
+dest_files=["res://.godot/imported/tiles-map.png-ec32ca9f45e54e53df31e5e751170741.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://gt0ap88vuqx3"
+path="res://.godot/imported/mountain_landscape.png-5424ff895796b4b1fcc0f36eebca8dec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://mountain_landscape.png"
+dest_files=["res://.godot/imported/mountain_landscape.png-5424ff895796b4b1fcc0f36eebca8dec.ctex"]
 
 [params]
 

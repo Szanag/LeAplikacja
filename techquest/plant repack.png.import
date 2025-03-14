@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://dia453ubc8ihg"
+path="res://.godot/imported/plant repack.png-57300b601a0dffbc25c175e87c38d53d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://plant repack.png"
+dest_files=["res://.godot/imported/plant repack.png-57300b601a0dffbc25c175e87c38d53d.ctex"]
 
 [params]
 

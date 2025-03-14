@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://dmbwhpv375ird"
+path="res://.godot/imported/cow_walk.png-25e8c7ef4af8005c72aef69d72953cf2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://cow_walk.png"
+dest_files=["res://.godot/imported/cow_walk.png-25e8c7ef4af8005c72aef69d72953cf2.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://dfbtoy15qx2vg"
+path="res://.godot/imported/Castle2.png-5ec4237e57bf67c1889cf29bca089ea2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://Castle2.png"
+dest_files=["res://.godot/imported/Castle2.png-5ec4237e57bf67c1889cf29bca089ea2.ctex"]
 
 [params]
 

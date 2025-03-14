@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dyawo6laqqhag"
-path="res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"
+uid="uid://cfpnvo0erlbj7"
+path="res://.godot/imported/duch_mama.png-c4eac5fb35b09fe7675deb33a99bb722.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/3_cz_medalionu.png"
-dest_files=["res://.godot/imported/3_cz_medalionu.png-c6f073278d9da1aea18c7dbd67215189.ctex"]
+source_file="res://art/duch_mama.png"
+dest_files=["res://.godot/imported/duch_mama.png-c4eac5fb35b09fe7675deb33a99bb722.ctex"]
 
 [params]
 
