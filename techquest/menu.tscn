@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://bkaabbmigyqfp"]
 
-[ext_resource type="Script" uid="uid://ca0u3ddcmyhdd" path="res://menu.gd" id="1_lti8b"]
+[ext_resource type="Script" path="res://menu.gd" id="1_lti8b"]
 [ext_resource type="AudioStream" uid="uid://p8fiefhjl665" path="res://Music/stranger-things-124008.mp3" id="2_ouk20"]
 
 [node name="Menu" type="Control"]
