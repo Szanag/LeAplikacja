@@ -1,7 +1,9 @@
-[gd_scene load_steps=3 format=3 uid="uid://dfnnfb16urswd"]
+[gd_scene load_steps=4 format=3 uid="uid://dfnnfb16urswd"]
 
 [ext_resource type="PackedScene" uid="uid://dayyfyo266rhb" path="res://Scene/main_character.tscn" id="1_lax48"]
-[ext_resource type="PackedScene" uid="uid://bjeiey6d7kqte" path="res://Scene/pause_menu.tscn" id="3_bi33i"]
+[ext_resource type="PackedScene" path="res://Scene/pause_menu.tscn" id="3_bi33i"]
+
+[sub_resource type="TileSet" id="TileSet_6ihgc"]
 
 [node name="Node2D" type="Node2D"]
 
@@ -9,3 +11,7 @@
 position = Vector2(496, 254)
 
 [node name="Pause menu" parent="." instance=ExtResource("3_bi33i")]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = SubResource("TileSet_6ihgc")
+format = 2
