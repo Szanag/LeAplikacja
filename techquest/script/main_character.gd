@@ -9,6 +9,8 @@ func _physics_process(_delta):
 	)
 	if  Input.is_action_pressed("sprint"):
 		movement_speed = 200
+	else :
+		movement_speed = 100
 	velocity = input_direction * movement_speed
 	move_and_slide()
 
