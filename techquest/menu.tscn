@@ -23,6 +23,7 @@ offset_bottom = 359.0
 layout_mode = 2
 
 [node name="Play" type="Button" parent="MarginContainer/VBoxContainer"]
+process_mode = 3
 layout_mode = 2
 text = "Play"
 
