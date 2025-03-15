@@ -1,7 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://bkaabbmigyqfp"]
+[gd_scene load_steps=2 format=3 uid="uid://bkaabbmigyqfp"]
 
-[ext_resource type="Script" path="res://menu.gd" id="1_lti8b"]
-[ext_resource type="AudioStream" uid="uid://p8fiefhjl665" path="res://Music/stranger-things-124008.mp3" id="2_ouk20"]
+[ext_resource type="Script" uid="uid://cx8c8b8n0gqoa" path="res://menu.gd" id="1_lti8b"]
 
 [node name="Menu" type="Control"]
 layout_mode = 3
@@ -34,11 +33,6 @@ text = "Options"
 [node name="Quit" type="Button" parent="MarginContainer/VBoxContainer"]
 layout_mode = 2
 text = "Quit"
-
-[node name="Music" type="AudioStreamPlayer2D" parent="."]
-stream = ExtResource("2_ouk20")
-volume_db = -10.914
-autoplay = true
 
 [connection signal="pressed" from="MarginContainer/VBoxContainer/Play" to="." method="_on_play_pressed"]
 [connection signal="pressed" from="MarginContainer/VBoxContainer/Options" to="." method="_on_options_pressed"]

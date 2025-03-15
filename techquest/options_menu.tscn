@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://dbemdtpehrfrk"]
+[gd_scene load_steps=3 format=3 uid="uid://dbemdtpehrfrk"]
 
-[ext_resource type="Script" path="res://options_menu.gd" id="1_lbr8e"]
+[ext_resource type="Script" uid="uid://dqwrocgbicvkh" path="res://options_menu.gd" id="1_lbr8e"]
+[ext_resource type="Script" uid="uid://d3v73gwwyt005" path="res://script/volume_slider.gd" id="2_t1lix"]
 
 [node name="Options" type="Control"]
 layout_mode = 3
@@ -23,12 +24,14 @@ layout_mode = 2
 
 [node name="Volume" type="HSlider" parent="MarginContainer/VBoxContainer"]
 layout_mode = 2
-min_value = -30.0
-max_value = 0.0
+min_value = -80.0
+max_value = 12.0
+script = ExtResource("2_t1lix")
 
 [node name="Back" type="Button" parent="MarginContainer/VBoxContainer"]
 layout_mode = 2
 text = "Back to Menu"
 
+[connection signal="drag_ended" from="MarginContainer/VBoxContainer/Volume" to="." method="_on_volume_drag_ended"]
 [connection signal="value_changed" from="MarginContainer/VBoxContainer/Volume" to="." method="_on_volume_value_changed"]
 [connection signal="pressed" from="MarginContainer/VBoxContainer/Back" to="." method="_on_back_pressed"]

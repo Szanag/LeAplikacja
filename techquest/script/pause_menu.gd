@@ -22,11 +22,11 @@ func _on_restart_pressed():
 	get_tree().reload_current_scene()
 
 func _on_return_to_menu_pressed():
+	resume()
 	get_tree().change_scene_to_file("res://Scene/menu.tscn")
-
+	
 func _on_quit_pressed():
 	get_tree().quit()
-	
 	
 func _process(_delta):
 	testEsc()
