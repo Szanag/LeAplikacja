@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bu17ikisr3m8v"
-path="res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"
+uid="uid://b6lm701w6yxtt"
+path="res://.godot/imported/krysztal.png-76d2d62aacba5859ed54588371eb7d77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/syn2.png"
-dest_files=["res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"]
+source_file="res://art/krysztal.png"
+dest_files=["res://.godot/imported/krysztal.png-76d2d62aacba5859ed54588371eb7d77.ctex"]
 
 [params]
 

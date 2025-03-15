@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bu17ikisr3m8v"
-path="res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"
+uid="uid://0biejppwum4i"
+path="res://.godot/imported/decorations-medieval.png-53d2c9716bd5e0b8ecc5a9d0835b08e1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/syn2.png"
-dest_files=["res://.godot/imported/syn2.png-2837fcab8765566ddaabda0764b5b3dc.ctex"]
+source_file="res://art/decorations-medieval.png"
+dest_files=["res://.godot/imported/decorations-medieval.png-53d2c9716bd5e0b8ecc5a9d0835b08e1.ctex"]
 
 [params]
 
